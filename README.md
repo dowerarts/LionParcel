@@ -17,4 +17,6 @@ How To Install This Bot
 
 7.) npm i
 
+8.) node run --totalReff=(u need) --reffCode=(code Refferal U)
+
 donate : https://saweria.co/dowertampan
